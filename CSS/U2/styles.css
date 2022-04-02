@@ -1,0 +1,15 @@
+div{
+  width: 200px;
+  height: 200px;
+  color: yellow;
+  background: red;
+  padding: 8px 0;
+  font-size: 30px;
+  margin: 2px;
+  display: inline-block;
+}
+
+div:nth-of-type(2) {
+  background: black;
+  color: white;
+}
