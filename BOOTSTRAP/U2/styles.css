@@ -1,0 +1,18 @@
+.bg-grey{
+    background-color: #f8f9fa;
+}
+
+.container-padding{
+    padding: 40px 100px 0 100px;
+}
+
+.small{
+    font-size: 80%;
+    color: #6c757d; 
+}
+
+.separation{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
