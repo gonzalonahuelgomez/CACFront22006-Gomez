@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+}
+
+.bold-marginTop{
+  font-weight: bold;
+  margin-top: 10px;
+}
