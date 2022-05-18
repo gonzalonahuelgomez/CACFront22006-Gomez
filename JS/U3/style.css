@@ -3,9 +3,10 @@
 }
 
 .container {
-  width: 15vw;
+  width: 20vw;
   display: flex;
   flex-direction: column;
+  align-items: center
 }
 
 .text-center {
