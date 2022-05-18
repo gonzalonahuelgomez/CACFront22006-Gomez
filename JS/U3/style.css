@@ -1,0 +1,38 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 15vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-center {
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  width: 55px;
+}
+
+.input-info input {
+  margin-bottom: 5px;
+  box-shadow: 1px 1px 0px 0px rgba(133,133,133,0.75) inset;
+  border: 0.1px solid gray;
+}
+
+.submit-center {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+button[type=submit] {
+  border-radius: 1px;
+  font-size: 0.8em;
+  padding: 0.5em;
+  border: 0px;
+  box-shadow: -1px -1px 1px 0px rgb(85, 85, 85) inset;
+}
